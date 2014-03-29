@@ -7,6 +7,14 @@ currently.
 
 ## Server Side
 
+### Makefile
+There are a few targets that are available by default in this package. Available targets and their
+descriptions are available in the table below:
+
+| Target | Description |
+|--------|-------------|
+| ```make install``` | This will run ```npm install``` against the current ```package.json``` file in your application root |
+
 ### Node.js
 
 ## Client Side
